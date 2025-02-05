@@ -9,4 +9,4 @@ Interests:
 - next.js
 - IoT with raspberry pi
 
-For more information, checkout out my website [Mitchell Scott](https://mitchellscott.dev)
+For more information, checkout out my website [mitchellscott.me](https://mitchellscott.dev)
